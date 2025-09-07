@@ -13,7 +13,7 @@ A comprehensive geospatial analysis examining transportation equity and accessib
 **Focus:** Spatial Justice in Transportation  
 **Data Sources:** U.S. Census Bureau (ACS 2021 5-Year Estimates)
 
-I found the data table **B08141** from \<data.census.gov\>
+Data table **B08141** from \<data.census.gov\>
 
 ## 📍 Introduction
 
