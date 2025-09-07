@@ -47,7 +47,7 @@ from maptools import census_vars, tiger, ui
 """Load Availabe Data
 =============
 
-I found the data table **B08141** from  <data.census.gov>
+Data table **B08141** from  <data.census.gov>
 
 
 This table includes data about how people go to work or in other words what mode of transportation do workers take to get to work.
