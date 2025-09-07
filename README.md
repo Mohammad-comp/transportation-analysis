@@ -58,7 +58,7 @@ The issue of inequality in transportation has been increasing in many communitie
 3. Run all cells
 
 ### 📝 Note for Interactive Maps
-If maps don't display in Jupyter, go to **File → Trust Notebook** to enable interactive visualizations.
+If maps don't display, go to Google Colab https://colab.research.google.com/drive/15n9LPxcmxs1g-CbCcG4pU9xVM8ZhNdKg?usp=sharing
 
 ## 📈 Analysis Components
 
@@ -150,7 +150,7 @@ Analyzing these two datasets together, we can understand how transportation ineq
 
 ## Acknowledgments
 
-- **FYS: Maps that Matter** course instructors
+- **FYS: Maps that Matter** course instructors, **Professor Uttamchandani** & **Professor Curinga** (Adelphi University)
 - **U.S. Census Bureau** for providing comprehensive demographic data
 - **Transportation equity researchers** whose work inspired this analysis
 - **Open-source geospatial community** for excellent tools and libraries
