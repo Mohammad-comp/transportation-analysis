@@ -58,7 +58,7 @@ The issue of inequality in transportation has been increasing in many communitie
 3. Run all cells
 
 ### 📝 Note for Interactive Maps
-If maps don't display, go to Google Colab https://colab.research.google.com/drive/15n9LPxcmxs1g-CbCcG4pU9xVM8ZhNdKg?usp=sharing
+If maps don't display, go to Google Colab [https://colab.research.google.com/drive/15n9LPxcmxs1g-CbCcG4pU9xVM8ZhNdKg?usp=sharing](https://colab.research.google.com/drive/15n9LPxcmxs1g-CbCcG4pU9xVM8ZhNdKg?usp=sharing)
 
 ## 📈 Analysis Components
 
